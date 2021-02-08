@@ -1,5 +1,5 @@
 <h1 align = "center"> Buenas Soy Matías Gutiérrez </h1>
-<h4 align = "center"> Soy de Chile, de la ciudad de Concepción, Región del Bio-Bio. Actualmente estoy cursando el ultimo año de Ingeniería de Ejecución en Computación e Informática. Soy un apasionado por la programación y los videojuegos. Constantemente estoy aprendiendo nuevas tecnologías, en la actualidad estoy reforzando mis conocimientos en Javascript. </h3>
+<h4 align = "center"> Soy de Chile, de la ciudad de Concepción, Región del Bio-Bio. Actualmente estoy cursando el ultimo año de Ingeniería de Ejecución en Computación e Informática. Soy un apasionado por la programación y los videojuegos. Constantemente estoy aprendiendo nuevas tecnologías, en la actualidad estoy reforzando mis conocimientos en Javascript. </h4>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=matiasgutierrezdu&label=Profile% 20views & color = 0e75b6 & style = flat "alt =" matiasgutierrezdu "/> </p>
 
@@ -9,4 +9,3 @@
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=matiasgutierrezdu&show_icons=true&locale=en&layout=compact" alt = "matiasgutierrezdu" /> </p>
 
-<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=matiasgutierrezdu&show_icons=true&locale=en" alt = "matiasgutierrezdu" /> </p>
