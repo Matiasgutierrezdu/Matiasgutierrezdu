@@ -10,5 +10,6 @@ Soy estudiante de ultimo año de Ingeniería de Ejecución en Computación e Inf
 <li>Otros
 </br>
 <p align="center">
-<a href="https://linkedin.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://twitter.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="30" width="30" /></a>
+<a href="https://linkedin.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="25" width="25" /></a>
 </p>
