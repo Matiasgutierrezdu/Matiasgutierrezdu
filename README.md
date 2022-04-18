@@ -1,6 +1,6 @@
 <h2> Buenas,  Soy Matías 👋</h2>
 <p> 
-Soy Ingeniero de Ejecución en Computación e Informática en la universidad del Bio-Bio, Concepción. Apasionado por la programación y los videojuegos. Constantemente estoy aprendiendo nuevas tecnologías, en la actualidad estoy en busca de empleo. </p>
+Soy Ingeniero de Ejecución en Computación e Informática en la universidad del Bio-Bio, Concepción. Apasionado por la programación y los videojuegos. Constantemente estoy aprendiendo nuevas tecnologías. </p>
 </br>
 <b>💻 Tecnologías:</b>
 <hr>
